@@ -1,0 +1,15 @@
+---
+title: "Matériel de cours"
+author: "Philippe Grosjean"
+date: 2018-01-23T20:05:14+01:00
+categories: ["Course"]
+tags: ["data science", "book", "R"]
+weight: 6
+img: "books.jpg"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Revenez plus tard... matériel en cours d'élaboration pour l'année académique 2018-2019 !

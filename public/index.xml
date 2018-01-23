@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science des Données Biologiques</title>
+    <link>/</link>
+    <description>Recent content on Science des Données Biologiques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2018 18:06:25 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science des données I : visualisation et inférence</title>
+      <link>/post/first/</link>
+      <pubDate>Tue, 23 Jan 2018 18:06:25 +0100</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>L&amp;rsquo;objectif de ce premier cours, dispensé en seconde année de bachelier, est de familiariser les étudiants avec des outils ouverts et professionnels, tels que R, RStudio et la SciViews Box pour importer et visualiser les données. L&amp;rsquo;inférence via les tests d&amp;rsquo;hypothèses est également abordée.</description>
+    </item>
+    
+    <item>
+      <title>Science des données II : analyse et modélisation</title>
+      <link>/post/second/</link>
+      <pubDate>Tue, 23 Jan 2018 18:12:42 +0100</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>Ce second cours, en troisième année de bachelier, aborde deux sections très importantes des sciences des données: les techniques exploratoires multivariées d&amp;rsquo;analyse des données, et les modèles utilisés en régression.</description>
+    </item>
+    
+    <item>
+      <title>Science des données III: exploration et prédiction</title>
+      <link>/post/third/</link>
+      <pubDate>Tue, 23 Jan 2018 19:24:17 +0100</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>Ce cours de master 1 en Biologie des Organismes et Eologie (BOE) et Biochimie, Biologie Moléculaire et Cellulaire (BBMC) aborde des notions plus avancées, notamments les algorithmes de classification supervisée (&amp;ldquo;machine learning&amp;rdquo;), l&amp;rsquo;analyse des séries spatio-temporelles et les régressions non linéaires, y compris les modèles de croissance.</description>
+    </item>
+    
+    <item>
+      <title>Science des données IV: pratique</title>
+      <link>/post/fourth/</link>
+      <pubDate>Tue, 23 Jan 2018 19:32:21 +0100</pubDate>
+      
+      <guid>/post/fourth/</guid>
+      <description>Ce cours à option de master 2 BBMC et BOE approfondi offre la possibilité aux étudiants de greffer un travail de recherche reproductible directement appliquée à leurs propres données issues de leur mémoire de fin d&amp;rsquo;études. Ils analyseront leurs données selon l&amp;rsquo;état de l&amp;rsquo;art et avec un regard critique, et utiliseront git, R Markdown et la SciViews Box pour aboutir à une analyse complètement reproductible et correctement documentée.</description>
+    </item>
+    
+    <item>
+      <title>Science des données V: recherche reproductible</title>
+      <link>/post/fifth/</link>
+      <pubDate>Tue, 23 Jan 2018 19:38:03 +0100</pubDate>
+      
+      <guid>/post/fifth/</guid>
+      <description>Ce cours à option de master 2 BBMC et BOE approfondi est le complément idéal pour les biologistes qui ont suivi les autres cours et veulent se perfectionner dans l&amp;rsquo;art d&amp;rsquo;analyser des données biologiques. Ils apprendront notamment à modulariser leurs analyses, à utiliser des bases de données et se perfectionneront dans l&amp;rsquo;utilisation de R et de R Studio.</description>
+    </item>
+    
+    <item>
+      <title>Méthode d&#39;enseignement</title>
+      <link>/post/materiel/</link>
+      <pubDate>Tue, 23 Jan 2018 20:05:14 +0100</pubDate>
+      
+      <guid>/post/materiel/</guid>
+      <description>Jusqu’ici cet enseignement était constitué de cours ex cathedra classiques, suivis de séances d’exercices. Pour l’année académique 2018-2019, nous sommes en train de revoir complètement le programme avec:
+ Des vidéos et tutoriaux à utiliser en classes inversées Des challenges et cas concrets de données à analyser Des exercices d’(auto-)évaluation interactifs  </description>
+    </item>
+    
+    <item>
+      <title>Matériel éducatif lié à ces cours</title>
+      <link>/pricing/pricing/</link>
+      <pubDate>Tue, 23 Jan 2018 21:32:43 +0100</pubDate>
+      
+      <guid>/pricing/pricing/</guid>
+      <description>Matériel en préparation pour l&amp;rsquo;année académique 2018-2019, donc incomplet pour l&amp;rsquo;instant.</description>
+    </item>
+    
+    <item>
+      <title>Apprendre à analyser des données à l&#39;UMONS</title>
+      <link>/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>La science des données se développe dans un monde submergé d&amp;rsquo;informations en tous genres. En biologie, le flux grandissant des données nécessite la maîtrise d&amp;rsquo;outils qui permettent de les analyser. L&amp;rsquo;objectif de cette série de cours, dispensés dans le cursus de biologie à la Faculté des Sciences de l&amp;rsquo;Université de Mons en Belgique, est de former nos étudiants aux techniques et bonnes pratiques qui feront partie intégrante de leur future carrière dans un contexte de science ouverte et reproductible.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/pricing/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pricing/pricing/</guid>
+      <description>Matériel éducatif lié à ces cours       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intros on Science des Données Biologiques</title>
+    <link>/intro/</link>
+    <description>Recent content in Intros on Science des Données Biologiques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
+    
+	<atom:link href="/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apprendre à analyser des données à l&#39;UMONS</title>
+      <link>/intro/intro/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>/intro/intro/</guid>
+      <description>La science des données se développe dans un monde submergé d&amp;rsquo;informations en tous genres. En biologie, le flux grandissant des données nécessite la maîtrise d&amp;rsquo;outils qui permettent de les analyser. L&amp;rsquo;objectif de cette série de cours, dispensés dans le cursus de biologie à la Faculté des Sciences de l&amp;rsquo;Université de Mons en Belgique, est de former nos étudiants aux techniques et bonnes pratiques qui feront partie intégrante de leur future carrière dans un contexte de science ouverte et reproductible.</description>
+    </item>
+    
+  </channel>
+</rss>

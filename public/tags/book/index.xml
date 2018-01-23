@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Science des Données Biologiques</title>
+    <link>/tags/book/</link>
+    <description>Recent content in Book on Science des Données Biologiques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 23 Jan 2018 20:05:14 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Méthode d&#39;enseignement</title>
+      <link>/post/materiel/</link>
+      <pubDate>Tue, 23 Jan 2018 20:05:14 +0100</pubDate>
+      
+      <guid>/post/materiel/</guid>
+      <description>Jusqu’ici cet enseignement était constitué de cours ex cathedra classiques, suivis de séances d’exercices. Pour l’année académique 2018-2019, nous sommes en train de revoir complètement le programme avec:
+ Des vidéos et tutoriaux à utiliser en classes inversées Des challenges et cas concrets de données à analyser Des exercices d’(auto-)évaluation interactifs  </description>
+    </item>
+    
+  </channel>
+</rss>
