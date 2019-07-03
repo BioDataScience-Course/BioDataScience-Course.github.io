@@ -67,14 +67,16 @@
     </item>
     
     <item>
-      <title>Resources</title>
+      <title>Ressources &amp; liens</title>
       <link>/post/resources/</link>
       <pubDate>Wed, 03 Jul 2019 10:11:18 +0100</pubDate>
       
       <guid>/post/resources/</guid>
-      <description> Présentations:
- …  Logiciels liés à ces cours:
- …  </description>
+      <description> Enseignants:
+ Philippe Grosjean Guyliann Engels Raphaël Conotte  Matériel pédagogique accessible hors UMONS:
+ Tutoriel Vidéos Learnr Github  Logiciels liés à ces cours:
+ R RStudio SciViews Box SciViews R  Présentations:
+ User!2019, Toulouse, France, 2019 3ème journée des enseignants de l’UMONS, Mons, Belgique, 2019 7ème rencontres R, Rennes, France, 2018  </description>
     </item>
     
   </channel>
