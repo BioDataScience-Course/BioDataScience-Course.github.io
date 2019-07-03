@@ -6,7 +6,7 @@
     <description>Recent content on Science des Données Biologiques</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 23 Jan 2018 18:06:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 10:11:18 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -62,8 +62,19 @@
       <pubDate>Tue, 23 Jan 2018 20:05:14 +0100</pubDate>
       
       <guid>/post/materiel/</guid>
-      <description>Jusqu’à l’année académique 2017-2018, cet enseignement était constitué de cours ex cathedra classiques, suivis de séances d’exercices. Pour l’année académique 2018-2019, nous sommes en train de revoir complètement le programme avec:
- Des vidéos et tutoriaux à utiliser en classes inversées Des challenges et cas concrets de données à analyser Des exercices d’(auto-)évaluation interactifs Une organisation Github classroom et un site blogdown à disposition des étudiants pour construire leurs propre base de connaissances  </description>
+      <description> Jusqu’à l’année académique 2017-2018, cet enseignement était constitué de cours ex cathedra classiques, suivis de séances d’exercices. A partir de l’année académique 2018-2019, nous révisons progressivement le programme et le matériel pédagogique avec:
+ Des vidéos et tutoriaux à utiliser en classes inversées Des challenges et cas concrets de données à analyser Des exercices d’(auto-)évaluation interactifs Une organisation Github Classroom et un site blogdown à disposition des étudiants pour construire leurs propre base de connaissances  </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/post/resources/</link>
+      <pubDate>Wed, 03 Jul 2019 10:11:18 +0100</pubDate>
+      
+      <guid>/post/resources/</guid>
+      <description> Présentations:
+ …  Logiciels liés à ces cours:
+ …  </description>
     </item>
     
     <item>
@@ -72,7 +83,7 @@
       <pubDate>Tue, 23 Jan 2018 21:32:43 +0100</pubDate>
       
       <guid>/pricing/pricing/</guid>
-      <description>Matériel en préparation pour l&amp;rsquo;année académique 2018-2019, donc incomplet pour l&amp;rsquo;instant.</description>
+      <description>Voici la liste des modules couverts par les cinq cours. L&amp;rsquo;ensemble du matériel pédagogique est centralisé sur la plateforme Moddle (pour les étudiants enrôlés à l&amp;rsquo;UMONS). Voyez aussi les liens ci-dessus pour accéder aux différents éléments hors UMONS.</description>
     </item>
     
     <item>
